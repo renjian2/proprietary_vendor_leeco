@@ -390,6 +390,9 @@ PRODUCT_COPY_FILES += \
     vendor/leeco/s2/proprietary/framework/com.quicinc.cne.server-V2.2-java.jar:system/framework/com.quicinc.cne.server-V2.2-java.jar \
     vendor/leeco/s2/proprietary/framework/dpmapi.jar:system/framework/dpmapi.jar \
     vendor/leeco/s2/proprietary/framework/izat.xt.srv.jar:system/framework/izat.xt.srv.jar \
+    vendor/leeco/s2/proprietary/framework/qcrilhook.jar:system/framework/qcrilhook.jar \
+    vendor/leeco/s2/proprietary/framework/qti-telephony-common.jar:system/framework/qti-telephony-common.jar \
+    vendor/leeco/s2/proprietary/framework/QtiTelephonyServicelibrary.jar:system/framework/QtiTelephonyServicelibrary.jar \
     vendor/leeco/s2/proprietary/framework/tcmclient.jar:system/framework/tcmclient.jar \
     vendor/leeco/s2/proprietary/framework/vendor.qti.data.factory-V1.0-java.jar:system/framework/vendor.qti.data.factory-V1.0-java.jar \
     vendor/leeco/s2/proprietary/framework/vendor.qti.hardware.alarm-V1.0-java.jar:system/framework/vendor.qti.hardware.alarm-V1.0-java.jar \
@@ -917,7 +920,4 @@ PRODUCT_PACKAGES += \
     dpmserviceapp \
     qcrilmsgtunnel \
     PowerOffAlarm \
-    TimeService \
-    QtiTelephonyServicelibrary \
-    qcrilhook \
-    qti-telephony-common
+    TimeService
