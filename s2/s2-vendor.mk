@@ -932,9 +932,6 @@ PRODUCT_PACKAGES += \
     ims \
     qcrilmsgtunnel \
     PowerOffAlarm \
-<<<<<<< HEAD
-    TimeService
-=======
     TimeService \
     imssettings \
     QPerformance \
@@ -942,4 +939,3 @@ PRODUCT_PACKAGES += \
     UxPerformance \
     qcrilhook \
     qti-telephony-common
->>>>>>> f3d6932... s2: Update Perf stack from Mi A2 Lite (Daisy)
