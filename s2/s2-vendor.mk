@@ -427,6 +427,7 @@ PRODUCT_COPY_FILES += \
     vendor/leeco/s2/proprietary/lib/librcc.so:system/lib/librcc.so \
     vendor/leeco/s2/proprietary/lib/libvpplibrary.so:system/lib/libvpplibrary.so \
     vendor/leeco/s2/proprietary/lib/rfsa/adsp/libqvr_adsp_driver_skel.so:system/lib/rfsa/adsp/libqvr_adsp_driver_skel.so \
+    vendor/leeco/s2/proprietary/lib/soundfx/libasphere.so:system/lib/soundfx/libasphere.so \
     vendor/leeco/s2/proprietary/lib/vendor.display.postproc@1.0.so:system/lib/vendor.display.postproc@1.0.so \
     vendor/leeco/s2/proprietary/lib/vendor.qti.gnss@1.0.so:system/lib/vendor.qti.gnss@1.0.so \
     vendor/leeco/s2/proprietary/lib/vendor.qti.gnss@1.1.so:system/lib/vendor.qti.gnss@1.1.so \
@@ -466,6 +467,7 @@ PRODUCT_COPY_FILES += \
     vendor/leeco/s2/proprietary/lib64/libqti_performance.so:system/lib64/libqti_performance.so \
     vendor/leeco/s2/proprietary/lib64/librcc.so:system/lib64/librcc.so \
     vendor/leeco/s2/proprietary/lib64/libxt_native.so:system/lib64/libxt_native.so \
+    vendor/leeco/s2/proprietary/lib64/soundfx/libasphere.so:system/lib64/soundfx/libasphere.so \
     vendor/leeco/s2/proprietary/lib64/vendor.display.postproc@1.0.so:system/lib64/vendor.display.postproc@1.0.so \
     vendor/leeco/s2/proprietary/lib64/vendor.qti.gnss@1.0.so:system/lib64/vendor.qti.gnss@1.0.so \
     vendor/leeco/s2/proprietary/lib64/vendor.qti.gnss@1.1.so:system/lib64/vendor.qti.gnss@1.1.so \
